@@ -11,8 +11,13 @@
             "id": "0693beeefc77d972",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zResources/Characters/Euphor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zResources/Characters/Euphor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zResources/Characters/Euphor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zResources/Characters/Euphor.md"
+              }
             }
           }
         ]
@@ -140,12 +149,12 @@
   },
   "active": "0693beeefc77d972",
   "lastOpenFiles": [
-    "2023-11-22.md",
-    "1. Introduction/Intro FlowChart.canvas",
-    "1. Introduction/1. Intro Hook - The Letter.md",
     "zResources/Characters/The Great Tree.md",
     "zResources/Characters/The Nine Guardians.md",
     "zResources/Characters/Euphor.md",
+    "2023-11-22.md",
+    "1. Introduction/Intro FlowChart.canvas",
+    "1. Introduction/1. Intro Hook - The Letter.md",
     "zResources/Characters",
     "zResources",
     "Link.md",
