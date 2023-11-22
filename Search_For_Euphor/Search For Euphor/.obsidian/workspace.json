@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
+                "file": "zResources/Places/Waterdeep.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
+                "file": "zResources/Places/Waterdeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
+                "file": "zResources/Places/Waterdeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md"
+                "file": "zResources/Places/Waterdeep.md"
               }
             }
           },
@@ -170,10 +170,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "dadc75e39289cf83",
+  "active": "ce44a20171c4f4c5",
   "lastOpenFiles": [
-    "2. Campaign (Spoiler Zone)/6. Its The End of the World As We Know It/Ideapad 6.md",
+    "zResources/Places/Sword Coast.md",
+    "zResources/Places/Waterdeep.md",
     "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
+    "2. Campaign (Spoiler Zone)/6. Its The End of the World As We Know It/Ideapad 6.md",
     "2. Campaign (Spoiler Zone)/8. Damned Fine/Ideapad 8.md",
     "2. Campaign (Spoiler Zone)/5. The Real Euphor/Ideapad 5.md",
     "2. Campaign (Spoiler Zone)/7. Seventh Heaven/Ideapad 7.md",
@@ -201,8 +203,6 @@
     "zResources/Items/Leaves of Selune.md",
     "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk To Liferos.md",
     "zResources/Characters/Liferos, The Great Tree.md",
-    "zResources/Places/Waterdeep.md",
-    "zResources/Places/Sword Coast.md",
     "zResources/Characters/Chazlov.md",
     "1. Introduction/Intro FlowChart.canvas",
     "zResources/Places/Avernus.md",
