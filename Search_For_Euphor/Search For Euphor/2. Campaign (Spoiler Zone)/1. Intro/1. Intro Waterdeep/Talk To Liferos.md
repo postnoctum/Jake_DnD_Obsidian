@@ -1,0 +1,1 @@
+Ancient Druidic, hard to decipher, Directs players to show [[Turlang]] the [[Leaves of Selune]] .

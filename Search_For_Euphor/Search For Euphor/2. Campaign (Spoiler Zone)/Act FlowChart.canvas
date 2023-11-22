@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ca96970f53a0e30b","x":-400,"y":-460,"width":700,"height":500,"type":"group","label":"INTRO"},
+		{"id":"285947134affc93a","type":"file","file":"1. Introduction/1. Intro Hook - The Letter.md","x":-240,"y":-440,"width":400,"height":160,"color":"4"}
+	],
+	"edges":[
+		{"id":"820286e9d31c2bc5","fromNode":"ca96970f53a0e30b","fromSide":"left","toNode":"af22ec95eb1524eb","toSide":"right"}
+	]
+}

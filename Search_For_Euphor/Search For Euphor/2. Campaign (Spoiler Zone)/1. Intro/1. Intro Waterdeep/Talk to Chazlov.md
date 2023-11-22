@@ -1,0 +1,1 @@
+if Players visit Chazlov he will greet them warmly and ask them to help clear out some bandits 
