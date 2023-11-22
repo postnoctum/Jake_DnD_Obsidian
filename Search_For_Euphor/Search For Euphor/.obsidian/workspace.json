@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zResources/Characters/Euphor.md",
-                "mode": "source",
+                "file": "zResources/Characters/Liferos, The Great Tree.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zResources/Characters/Euphor.md",
+                "file": "zResources/Characters/Liferos, The Great Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zResources/Characters/Euphor.md",
+                "file": "zResources/Characters/Liferos, The Great Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zResources/Characters/Euphor.md"
+                "file": "zResources/Characters/Liferos, The Great Tree.md"
               }
             }
           },
@@ -166,12 +166,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "dadc75e39289cf83",
+  "active": "0bd41064572557fe",
   "lastOpenFiles": [
+    "zResources/Places/Waterdeep.md",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/1. Intro Waterdeep.md",
+    "2. Campaign (Spoiler Zone)/Act FlowChart.canvas",
+    "2. Campaign (Spoiler Zone)/2. Campaign (Spoiler Zone).md",
+    "zResources/Characters/Liferos, The Great Tree.md",
+    "zResources/Places/Sword Coast.md",
+    "zResources/Characters/Euphor.md",
     "zResources/Places/pngs/Waterdeep.png",
     "zResources/Places/pngs/SwordCoast.png",
-    "zResources/Places/Waterdeep.md",
-    "zResources/Places/Sword Coast.md",
     "zResources/Places/pngs",
     "zResources/Places/Emerald Enclave.md",
     "zResources/Places/Avernus.md",
@@ -179,18 +184,13 @@
     "zResources/Items/Leaves of Selune.md",
     "zResources/Items",
     "zResources/Characters/Turlang.md",
-    "zResources/Characters/Liferos, The Great Tree.md",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk to Chazlov.md",
     "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk To Liferos.md",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/1. Intro Waterdeep.md",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk to Chazlov.md",
     "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep",
-    "2. Campaign (Spoiler Zone)/Act FlowChart.canvas",
-    "2. Campaign (Spoiler Zone)/2. Campaign (Spoiler Zone).md",
     "2. Campaign (Spoiler Zone)/1. Intro",
     "2. Campaign (Spoiler Zone)",
     "zResources/Characters/The Great Tree.md",
     "1. Introduction/Intro FlowChart.canvas",
-    "zResources/Characters/Euphor.md",
     "zResources/Characters/The Nine Guardians.md",
     "1. Introduction/1. Intro Hook - The Letter.md",
     "zResources/Untitled.md",
