@@ -3,7 +3,7 @@
     {
       "id": "Faerun_Map",
       "locked": true,
-      "lastAccessed": 1700687422042,
+      "lastAccessed": 1700689369688,
       "markers": [
         {
           "id": "ID_5b7ba91a985b",
@@ -43,8 +43,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "zResources/Places/Sword Coast.md",
-        "zResources/Places/Waterdeep.md"
+        "zResources/Places/Waterdeep.md",
+        "zResources/Places/Sword Coast.md"
       ]
     }
   ],

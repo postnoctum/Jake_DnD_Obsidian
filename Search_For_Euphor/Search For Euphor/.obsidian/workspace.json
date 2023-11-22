@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zResources/Items/Corrupted Sap.md",
+                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zResources/Items/Corrupted Sap.md",
+                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zResources/Items/Corrupted Sap.md",
+                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zResources/Items/Corrupted Sap.md"
+                "file": "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md"
               }
             }
           },
@@ -170,44 +170,47 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ce44a20171c4f4c5",
+  "active": "dadc75e39289cf83",
   "lastOpenFiles": [
+    "2. Campaign (Spoiler Zone)/6. Its The End of the World As We Know It/Ideapad 6.md",
+    "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End/Ideapad 9.md",
+    "2. Campaign (Spoiler Zone)/8. Damned Fine/Ideapad 8.md",
+    "2. Campaign (Spoiler Zone)/5. The Real Euphor/Ideapad 5.md",
+    "2. Campaign (Spoiler Zone)/7. Seventh Heaven/Ideapad 7.md",
+    "2. Campaign (Spoiler Zone)/4. The Quiet Place/Ideapad 4.md",
+    "2. Campaign (Spoiler Zone)/3. Hell 1 Zone 2/Ideapad 3.md",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk to Chazlov.md",
+    "2. Campaign (Spoiler Zone)/1. Intro/Ideapad.md",
+    "2. Campaign (Spoiler Zone)/2. Bat Into Hell/Ideapad 2.md",
+    "2. Campaign (Spoiler Zone)/Act FlowChart.canvas",
+    "2. Campaign (Spoiler Zone)/7. Seventh Heaven",
+    "2. Campaign (Spoiler Zone)/9. Epilogue -  The Book End",
+    "2. Campaign (Spoiler Zone)/7. Damned Fine/Untitled",
+    "2. Campaign (Spoiler Zone)/8. Damned Fine",
+    "2. Campaign (Spoiler Zone)/2. Campaign (Spoiler Zone).md",
+    "2. Campaign (Spoiler Zone)/6. Its The End of the World As We Know It",
+    "2. Campaign (Spoiler Zone)/5. The Real Euphor",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Forking Off.md",
+    "2. Campaign (Spoiler Zone)/4. The Quiet Place/Untitled",
+    "2. Campaign (Spoiler Zone)/4. The Quiet Place",
+    "2. Campaign (Spoiler Zone)/3. Hell 1 Zone 2",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/1. Intro Waterdeep.md",
+    "2. Campaign (Spoiler Zone)/2. Bat Into Hell",
+    "1. Introduction/1. Intro Hook - The Letter.md",
+    "zResources/Items/Corrupted Sap.md",
     "zResources/Items/Leaves of Selune.md",
-    "zResources/Places/Sword Coast.md",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk To Liferos.md",
+    "zResources/Characters/Liferos, The Great Tree.md",
     "zResources/Places/Waterdeep.md",
+    "zResources/Places/Sword Coast.md",
+    "zResources/Characters/Chazlov.md",
+    "1. Introduction/Intro FlowChart.canvas",
     "zResources/Places/Avernus.md",
     "zResources/Places/Emerald Enclave.md",
     "zResources/Characters/Turlang.md",
     "zResources/Characters/The Nine Guardians.md",
     "zResources/Characters/The Great Tree.md",
-    "zResources/Characters/Liferos, The Great Tree.md",
-    "zResources/Characters/Euphor.md",
-    "zResources/Items/Corrupted Sap.md",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk to Chazlov.md",
-    "1. Introduction/1. Intro Hook - The Letter.md",
-    "2. Campaign (Spoiler Zone)/Act FlowChart.canvas",
-    "1. Introduction/Intro FlowChart.canvas",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/1. Intro Waterdeep.md",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk To Liferos.md",
-    "2. Campaign (Spoiler Zone)/2. Campaign (Spoiler Zone).md",
     "zResources/Places/pngs/Waterdeep.png",
-    "zResources/Places/pngs/SwordCoast.png",
-    "zResources/Places/pngs",
-    "zResources/Places",
-    "zResources/Items",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep",
-    "2. Campaign (Spoiler Zone)/1. Intro",
-    "2. Campaign (Spoiler Zone)",
-    "zResources/Untitled.md",
-    "2023-11-22.md",
-    "zResources/Characters",
-    "zResources",
-    "Link.md",
-    "Linked to.md",
-    "1. Introduction/1. Introduction.md",
-    "1. Introduction",
-    "Linked To.md",
-    "Untitled/Untitled.md",
-    "2023-11-21.md"
+    "zResources/Places/pngs/SwordCoast.png"
   ]
 }
