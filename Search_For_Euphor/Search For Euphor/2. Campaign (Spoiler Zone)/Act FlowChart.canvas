@@ -1,7 +1,14 @@
 {
 	"nodes":[
-		{"id":"ca96970f53a0e30b","type":"group","x":-400,"y":-460,"width":700,"height":500,"label":"INTRO"},
-		{"id":"285947134affc93a","type":"file","file":"1. Introduction/1. Intro Hook - The Letter.md","x":-240,"y":-440,"width":400,"height":160,"color":"4"}
+		{"id":"ca96970f53a0e30b","type":"group","x":120,"y":-800,"width":1000,"height":1040,"label":"INTRO"},
+		{"id":"285947134affc93a","type":"file","file":"1. Introduction/1. Intro Hook - The Letter.md","x":280,"y":-780,"width":400,"height":160,"color":"4"},
+		{"id":"de107ba16dc429ab","type":"file","file":"2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/1. Intro Waterdeep.md","x":280,"y":-560,"width":300,"height":120},
+		{"id":"64f6c08a13c832d2","type":"file","file":"2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk to Chazlov.md","x":180,"y":-320,"width":400,"height":400},
+		{"id":"ee6d09c19c0b842f","type":"file","file":"2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk To Liferos.md","x":640,"y":-320,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c2a760eeef96eed5","fromNode":"285947134affc93a","fromSide":"bottom","toNode":"de107ba16dc429ab","toSide":"top"},
+		{"id":"a9366173dde0813f","fromNode":"de107ba16dc429ab","fromSide":"bottom","toNode":"64f6c08a13c832d2","toSide":"top"},
+		{"id":"4880c8092c68fb54","fromNode":"de107ba16dc429ab","fromSide":"right","toNode":"ee6d09c19c0b842f","toSide":"top"}
+	]
 }

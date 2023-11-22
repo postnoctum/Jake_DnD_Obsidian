@@ -3,7 +3,7 @@
     {
       "id": "Faerun_Map",
       "locked": true,
-      "lastAccessed": 1700684182011,
+      "lastAccessed": 1700687422042,
       "markers": [
         {
           "id": "ID_5b7ba91a985b",
@@ -14,6 +14,23 @@
           ],
           "link": "Liferos, The Great Tree",
           "layer": "%5B%5BWaterdeep.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3baac8d8eae8",
+          "type": "Cities",
+          "loc": [
+            1139.0385390569677,
+            1268.207651636896
+          ],
+          "link": "Waterdeep",
+          "layer": "%5B%5BSwordCoast.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,

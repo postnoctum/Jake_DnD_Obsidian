@@ -1,1 +1,1 @@
-if Players visit Chazlov he will greet them warmly and ask them to help clear out some bandits 
+if Players visit Chazlov he will greet them warmly and tells them about a [[Corrupted Sap|mysterious green fluid]] that has been flowing down the Delimbiyr River in periodic streaks into Daggerford.

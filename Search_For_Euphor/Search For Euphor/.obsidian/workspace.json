@@ -4,32 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "aa357427707029f8",
+        "id": "75c678c24b684cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "0693beeefc77d972",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0bd41064572557fe",
+            "id": "ce44a20171c4f4c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zResources/Places/Sword Coast.md",
+                "file": "zResources/Items/Corrupted Sap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd3b324c1911db72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zResources/Items/Corrupted Sap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zResources/Places/Sword Coast.md",
+                "file": "zResources/Items/Corrupted Sap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zResources/Places/Sword Coast.md",
+                "file": "zResources/Items/Corrupted Sap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zResources/Places/Sword Coast.md"
+                "file": "zResources/Items/Corrupted Sap.md"
               }
             }
           },
@@ -166,33 +170,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0bd41064572557fe",
+  "active": "ce44a20171c4f4c5",
   "lastOpenFiles": [
+    "zResources/Items/Leaves of Selune.md",
+    "zResources/Places/Sword Coast.md",
+    "zResources/Places/Waterdeep.md",
+    "zResources/Places/Avernus.md",
+    "zResources/Places/Emerald Enclave.md",
+    "zResources/Characters/Turlang.md",
+    "zResources/Characters/The Nine Guardians.md",
+    "zResources/Characters/The Great Tree.md",
+    "zResources/Characters/Liferos, The Great Tree.md",
+    "zResources/Characters/Euphor.md",
+    "zResources/Items/Corrupted Sap.md",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk to Chazlov.md",
+    "1. Introduction/1. Intro Hook - The Letter.md",
     "2. Campaign (Spoiler Zone)/Act FlowChart.canvas",
     "1. Introduction/Intro FlowChart.canvas",
-    "1. Introduction/1. Intro Hook - The Letter.md",
-    "zResources/Characters/Euphor.md",
-    "zResources/Places/Waterdeep.md",
-    "zResources/Places/Sword Coast.md",
+    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/1. Intro Waterdeep.md",
     "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk To Liferos.md",
     "2. Campaign (Spoiler Zone)/2. Campaign (Spoiler Zone).md",
-    "zResources/Items/Leaves of Selune.md",
-    "zResources/Characters/Liferos, The Great Tree.md",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/1. Intro Waterdeep.md",
     "zResources/Places/pngs/Waterdeep.png",
     "zResources/Places/pngs/SwordCoast.png",
     "zResources/Places/pngs",
-    "zResources/Places/Emerald Enclave.md",
-    "zResources/Places/Avernus.md",
     "zResources/Places",
     "zResources/Items",
-    "zResources/Characters/Turlang.md",
-    "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep/Talk to Chazlov.md",
     "2. Campaign (Spoiler Zone)/1. Intro/1. Intro Waterdeep",
     "2. Campaign (Spoiler Zone)/1. Intro",
     "2. Campaign (Spoiler Zone)",
-    "zResources/Characters/The Great Tree.md",
-    "zResources/Characters/The Nine Guardians.md",
     "zResources/Untitled.md",
     "2023-11-22.md",
     "zResources/Characters",
